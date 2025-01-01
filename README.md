@@ -1,6 +1,8 @@
-# Problem Statement
+## Problem Statement
 
 To create a feedback system for monitoring washrooms cleanliness of our college which can enable the faculty to rate their experience and submit a service request for poor and bad services.
+
+## Application Features
 
 1. Analysis can be done on daily basis, weekly basis as well as on monthly basis.
 2. We can get analysis of single washroom and also comparison analysis of multiple washrooms can also be done.
